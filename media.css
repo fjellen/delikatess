@@ -1,0 +1,25 @@
+@media (min-width: 320px) {
+
+}
+
+@media (max-width: 768px) {
+    .card-container article h3 {
+        font-size: 0.8rem;
+    }
+
+    .header-info {
+        width: 20rem;
+    }
+    
+    .card-container article p {
+        font-size: 0.8rem;
+    }
+
+    .card img {
+        height: 100px;
+    }
+}
+
+@media (max-width: 1440px) {
+   
+}
