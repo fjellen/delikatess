@@ -1,5 +1,7 @@
 @media (max-width: 425px) {
-    
+    .banner-hem img {
+        width: 425px;
+    }
 }
 
 @media (max-width: 768px) {
