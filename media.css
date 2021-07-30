@@ -2,6 +2,10 @@
     .banner-hem img {
         width: 425px;
     }
+
+    .banner-hem {
+        width: 425px;
+    }
 }
 
 @media (max-width: 768px) {
